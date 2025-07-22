@@ -2,8 +2,16 @@
 
 This repository contains two systematic trading strategy implementations using Backtrader:
 
-1. **MACD-KDJ-ATR Strategy** (`macd_kdj_atr/`)
-2. **Growth_trend_resonance Stock Selection Strategy(REPRODUCED)** (`growth_trend_resonance/`)
+1. **MACD‑KDJ‑ATR Strategy**  
+   A mean‑reversion/momentum hybrid using MACD and KDJ signals, with ATR‑based dynamic position sizing, volume filters, pyramiding and trailing stops.
+
+2. **Growth‑Trend Resonance (Growth‑Momentum) Strategy (REPRODUCED)**  
+   A multi‑factor stock selection model that:  
+   - Builds a **base pool** by TTM net‑profit growth and acceleration  
+   - Applies **hard screens** (NPAP, solvency, ROE, volume, no recent equity financing, excludes ST)  
+   - Incorporates **analyst revision** & **growth** expectations  
+   - Excludes suspended or limit‑up stocks and fills vacant slots  
+   - Rebalances on five fixed calendar dates
 
 ---
 
