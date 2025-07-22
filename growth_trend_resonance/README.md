@@ -1,4 +1,4 @@
-# Growth-Trend-Resonance Stock Selection Strategy (REBUILD)
+# Growth-Trend-Resonance Stock Selection Strategy (REPRODUCED)
 
 This strategy selects the top 30 stocks monthly by a composite score of:
 1. TTM growth rate (top 1/3)  
@@ -26,3 +26,4 @@ then equally weights the final list.
 cd growth_trend_resonance
 pip install -r requirements.txt
 python backtest_runner.py
+```
