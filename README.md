@@ -3,7 +3,7 @@
 This repository contains two systematic trading strategy implementations using Backtrader:
 
 1. **MACD-KDJ-ATR Strategy** (`macd_kdj_atr/`)
-2. **Growth_trend_resonance Stock Selection Strategy** (`growth_trend_resonance/`)
+2. **Growth_trend_resonance Stock Selection Strategy(REPRODUCED)** (`growth_trend_resonance/`)
 
 ---
 
