@@ -1,5 +1,5 @@
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)  
-![Static Badge](https://img.shields.io/badge/:badgeContent?style=flat)
+[![Coverage](https://img.shields.io/codecov/c/github/Oliveraider2/My-Quant-Strates)](https://codecov.io/gh/My-Quant-Strates)
 # Quantitative Trading Strategies
 
 This repository contains two systematic trading strategy implementations using Backtrader:
