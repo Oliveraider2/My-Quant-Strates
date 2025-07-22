@@ -38,8 +38,7 @@ Each sub-project has its own `requirements.txt`.
 
 Clone the repository:
 
-git clone https://github.com/yourusername/quant-strategies.git
-cd quant-strategies
+git clone https://github.com/Oliveraider2/My-Quant-Strates.git 
 
 Install dependencies for both strategies:
 
