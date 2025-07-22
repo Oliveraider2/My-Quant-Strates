@@ -9,17 +9,18 @@ This repository contains two systematic trading strategy implementations using B
 
 ## Repository Structure
 
-.
+
+```text
 ├── macd_kdj_atr/
-│ ├── strategy.py
-│ ├── backtest_runner.py
-│ ├── requirements.txt
-│ └── README.md
+│   ├── strategy.py
+│   ├── backtest_runner.py
+│   ├── requirements.txt
+│   └── README.md
 ├── growth_trend_resonance/
-│ ├── strategy.py
-│ ├── backtest_runner.py
-│ ├── requirements.txt
-│ └── README.md
+│   ├── strategy.py
+│   ├── backtest_runner.py
+│   ├── requirements.txt
+│   └── README.md
 ├── .gitignore
 └── README.md
 
@@ -36,23 +37,23 @@ Each sub-project has its own `requirements.txt`.
 
 ## Installation
 
-Clone the repository:
+### Clone the repository:
 
 git clone https://github.com/Oliveraider2/My-Quant-Strates.git 
 
-Install dependencies for both strategies:
+### Install dependencies for both strategies:
 
 pip install -r macd_kdj_atr/requirements.txt
 pip install -r growth_trend_resonance/requirements.txt
 
-Usage
+### Usage
 
-MACD-KDJ-ATR Strategy
+#### MACD-KDJ-ATR Strategy
 cd macd_kdj_atr
-# The script auto-generates sample data if none is found
+The script auto-generates sample data if none is found
 python backtest_runner.py path/to/your_data.csv
 
-Growth_trend_resonance Stock Selection Strategy
+#### Growth_trend_resonance Stock Selection Strategy
 cd growth_trend_resonance
 # The script auto-generates sample data if none is found
 python backtest_runner.py
