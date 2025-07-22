@@ -48,12 +48,16 @@ pip install -r growth_trend_resonance/requirements.txt
 
 ### Usage
 
-#### MACD-KDJ-ATR Strategy
+#### MACD‑KDJ‑ATR Strategy
+```bash
 cd macd_kdj_atr
-The script auto-generates sample data if none is found
+# The script auto‑generates sample data if none is found
 python backtest_runner.py path/to/your_data.csv
+```
 
 #### Growth_trend_resonance Stock Selection Strategy
+```bash
 cd growth_trend_resonance
 # The script auto-generates sample data if none is found
 python backtest_runner.py
+```
