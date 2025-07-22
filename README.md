@@ -1,3 +1,5 @@
+[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)  
+
 # Quantitative Trading Strategies
 
 This repository contains two systematic trading strategy implementations using Backtrader:
