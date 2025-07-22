@@ -23,7 +23,7 @@ This repository contains two systematic trading strategy implementations using B
 │   └── README.md
 ├── .gitignore
 └── README.md
-
+```
 ---
 
 ## Prerequisites
